@@ -28,4 +28,4 @@
 - Update security policies to prevent future incidents.
 
 ## Emergency Contact
-IT Security Team: security@company.local | Ext: 101
+Charley Institution IT Support: support@charleyinstitution.edu | Ext: 404
